@@ -57,6 +57,7 @@ bekler. Konuşma tanıma, dil modeli ve ses tamamen bilgisayarında çalışabil
 - [Sorun giderme](#sorun-giderme)
 - [Kaynaktan derleme](#kaynaktan-derleme)
 - [Katkı](#katkı)
+- [Destek](#destek)
 - [Lisans](#lisans)
 
 ## Neden Bilge?
@@ -333,6 +334,15 @@ Hata bildirimleri, fikirler ve pull request'ler [Issues](https://github.com/serd
 sayfasında memnuniyetle karşılanır; Bilge'nin yanlış anladığı bir cümle bile değerli bir bildirimdir. Derleme, test ve
 değişiklik önerme [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında, güvenlik açığını gizlice bildirme
 [SECURITY.md](SECURITY.md) dosyasında anlatılıyor. Bilge işine yaradıysa bir ⭐ başkalarının da bulmasına yardım eder.
+
+## Destek
+
+Bilge işine yaradıysa geliştirilmesini GitHub Sponsors ya da kripto ile destekleyebilirsin. Destek gönüllüdür ve lisansı değiştirmez.
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/serdarvaran)
+[![Donate Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/serdarvaran/serdarvaran#bitcoin)
+[![Donate Ethereum](https://img.shields.io/badge/Ethereum-ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/serdarvaran/serdarvaran#ethereum)
+[![Donate Solana](https://img.shields.io/badge/Solana-SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://github.com/serdarvaran/serdarvaran#solana)
 
 ## Lisans
 

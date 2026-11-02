@@ -59,6 +59,7 @@ the internet is used only for what you ask for, such as the weather or a song, a
 - [Troubleshooting](#troubleshooting)
 - [Building from source](#building-from-source)
 - [Contributing](#contributing)
+- [Support](#support)
 - [License](#license)
 
 ## Why Bilge
@@ -337,6 +338,15 @@ Bug reports, ideas and pull requests are welcome in [Issues](https://github.com/
 a sentence Bilge misunderstands is a valuable report. [CONTRIBUTING.md](CONTRIBUTING.md) explains how to build, test
 and propose a change, and [SECURITY.md](SECURITY.md) how to report a vulnerability privately. If Bilge is useful to
 you, a ⭐ helps others find it.
+
+## Support
+
+If Bilge saves you time, you can support its development through GitHub Sponsors or crypto. Support is voluntary and does not change the licence.
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/serdarvaran)
+[![Donate Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/serdarvaran/serdarvaran#bitcoin)
+[![Donate Ethereum](https://img.shields.io/badge/Ethereum-ETH-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/serdarvaran/serdarvaran#ethereum)
+[![Donate Solana](https://img.shields.io/badge/Solana-SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://github.com/serdarvaran/serdarvaran#solana)
 
 ## License
 
